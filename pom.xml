@@ -100,11 +100,7 @@
 	      <url>http://34.224.216.212:9984/claricetechnologies/repository/walmart-release/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.224.216.212:9984/claricetechnologies/repository/walmart-snapshot/</url>
-	    </snapshotRepository>
+	    
 	    
 	</distributionManagement>
 	
